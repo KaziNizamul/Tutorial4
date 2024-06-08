@@ -24,7 +24,7 @@ Routing: Implemented using React Router for navigation between pages.
 ## Deployment
 The project is deployed on Vercel and can be accessed at the following link:
 
-https://tutorial3-eight.vercel.app
+https://tutorial4-ebon.vercel.app
 
 ## GitHub Repository
 
@@ -36,7 +36,7 @@ https://github.com/KaziNizamul/Tutorial4
 
 The source code for this project is available on GitLab:
 
-https://git.cs.dal.ca/nkazi/csci_5709_b00961418/-/tree/main/Tutorials/Tutorial4
+https://git.cs.dal.ca/nkazi/csci_5709_b00961418/-/tree/main/Tutorials/Tutorial4?ref_type=heads
 
 ## Getting Started
 
@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KaziNizamul/Tutorial4.git
+git clone https://github.com/KaziNizamul/Tutorial4
 ```
 
 2. Navigate to the project directory:
